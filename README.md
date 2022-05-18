@@ -27,7 +27,7 @@ Actions:
 
 1. Marked up html to note what needed doing 
 
-website title <website/> renamed for SEO to >Horiseon search-engine-optimization social-media-marketing online-reputation-management< to capture company name and also the services they offer for when people are googling
+website title <website/> renamed for SEO to >Horiseon SEO< to capture company name and also the services they offer for when people are googling
 
 Optimised images for SEO. 
 Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
