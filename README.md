@@ -23,11 +23,17 @@ Research for how to optimise html for SEO
 
 https://www.greengeeks.com/blog/html-tags-for-seo/
 
+Actions:
+
+1. Marked up html to note what needed doing 
+
 website title <website/> renamed for SEO to >Horiseon search-engine-optimization social-media-marketing online-reputation-management< to capture company name and also the services they offer for when people are googling
 
 Optimised images for SEO. 
+Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
 Images should be no more than 20MB, best practice from my experience is keep them under 1MB, no more than 2MB. jpg ideal but some of these images had transparent backgrounds so needed to retain png format
 renamed images to be more SEO friendly
+added alt tags for SEO
 
 compressed images using photoshop script and preview for png to under 1MB each and renamed to optimise SEO and put new image addresses in html
 
