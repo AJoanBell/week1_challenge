@@ -51,12 +51,14 @@ updated CSS .hero with new link to compressed image. Left in CSS and didn't writ
 9. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
 Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/IDforheaderlink.png
 
-10. CSS selectors and properties are consolidated and organized to follow semantic structure.
+10. CSS selectors and properties consolidated and organized to follow semantic structure.
 
-11. Commented on CSS
+11. Commented on CSS and changes made
 
-12. Footer not in final png for reference that was provided but I have left it in as footer is best practice in website. Added dummy terms and conditions and privacy policy. Updated copyright to 2022
+12. Footer not in final png for reference that was provided but I have left it in as footer is best practice in website. Added dummy terms and conditions and privacy policy. Updated copyright to 2022.
 
-updated copyright to 2022
+13. Cleaned up html with formatting, indentation, moving tags to reduce lines and make it easier to locate elements and sections.
 
-13. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here:
+14. right column in body not formatting properly across all browsers and devices (the px where it ends) but must ignore for purposes of this exercise.
+
+15. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/01-html-css-git-homework-demo.png
