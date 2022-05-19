@@ -33,9 +33,9 @@ https://www.greengeeks.com/blog/html-tags-for-seo/
 
 4. <h1>Hori<span class="seo">seo</span>n</h1> Ideally I would say this needs heading written uninterrupted in full "Horiseon" for accessability and SEO. When I inspect element it has heading Horiseon. I left as it seemed the styling was important. One solution could be to use an image instead of writing their business name/logo and then have alt tag for image.
 
-5. Added <header> tags into body around contents in header
+5. Added header tags into body around contents in header
 
-6. Add <nav> tags for menu items in header
+6. Add nav tags for menu items in header
 
 7. Optimised images for SEO. 
 Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
