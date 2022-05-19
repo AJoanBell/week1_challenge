@@ -31,7 +31,7 @@ https://www.greengeeks.com/blog/html-tags-for-seo/
 
 3. website title <website/> renamed for SEO to >Horiseon SEO< to capture company name and also the services they offer for when people are googling
 
-4. <h1>Hori<span class="seo">seo</span>n</h1> Ideally I would say this needs heading written uninterrupted in full "Horiseon" for accessability and SEO. When I inspect element it has heading Horiseon. I left as it seemed the styling was important. One solution could be to use an image instead of writing their business name/logo and then have alt tag for image.
+4. <h1>Hori<span class="seo">seo</span>n</h1> in header. Ideally I would say this needs heading written uninterrupted in full "Horiseon" for accessability and SEO. When I inspect element it has heading Horiseon. I left as it seemed the styling was important. One solution could be to use an image instead of writing their business name/logo and then have alt tag for image.
 
 5. Added header tags into body around contents in header
 
