@@ -42,7 +42,7 @@ added alt tags for SEO and accessability
 compressed images using photoshop script and preview for png to under 2MB each and renamed to optimise SEO and put new image addresses in html
 
 5. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
-Screenshot of ID added in html: <img src="./assets/images/csed/images-for-readme-doc/IDforheaderlink.png"/>
+Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/IDforheaderlink.png
 
 
 6. Added link to Horiseon in header so that it refreshes the page
