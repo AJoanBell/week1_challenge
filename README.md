@@ -25,13 +25,13 @@ https://www.greengeeks.com/blog/html-tags-for-seo/
 
 ## Actions taken
 
-1. Marked up html to note what needed doing <!-- mark ups in html written like this -->
+1. Marked up html to note what needed doing https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/htmlmarkup.png
 
 2. Researched accessability standards https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
 3. website title <website/> renamed for SEO to >Horiseon SEO< to capture company name and also the services they offer for when people are googling
 
-4. <h1>Hori<span class="seo">seo</span>n</h1>
+4. <h1>Hori<span class="seo">seo</span>n</h1> This needs heading for accessability 
 
 4. Optimised images for SEO. 
 Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
@@ -42,6 +42,7 @@ renamed images to be more SEO friendly
 added alt tags for SEO and accessability
 
 compressed images using photoshop script and preview for png to under 2MB each and renamed to optimise SEO and put new image addresses in html
+updated CSS .hero with new link to compressed image. Left in CSS and didn't write in html as not critical to SEO and accessability
 
 5. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
 Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/IDforheaderlink.png
