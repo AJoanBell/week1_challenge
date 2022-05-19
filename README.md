@@ -25,16 +25,26 @@ https://www.greengeeks.com/blog/html-tags-for-seo/
 
 Actions:
 
-1. Marked up html to note what needed doing 
+1. Marked up html to note what needed doing <!-- mark ups in html written like this -->
 
-website title <website/> renamed for SEO to >Horiseon SEO< to capture company name and also the services they offer for when people are googling
+2. Researched accessability standards https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
-Optimised images for SEO. 
+3. website title <website/> renamed for SEO to >Horiseon SEO< to capture company name and also the services they offer for when people are googling
+
+4. Optimised images for SEO. 
 Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
+https://www.searchenginejournal.com/on-page-seo/image-optimization/
+
 Images should be no more than 20MB, best practice from my experience is keep them under 1MB, no more than 2MB. jpg ideal but some of these images had transparent backgrounds so needed to retain png format
 renamed images to be more SEO friendly
-added alt tags for SEO
+added alt tags for SEO and accessability
 
-compressed images using photoshop script and preview for png to under 1MB each and renamed to optimise SEO and put new image addresses in html
+compressed images using photoshop script and preview for png to under 2MB each and renamed to optimise SEO and put new image addresses in html
 
-changed copyright to 2022
+5. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
+
+
+
+6. Added link to Horiseon in header so that it refreshes the page
+
+10. updated copyright to 2022
