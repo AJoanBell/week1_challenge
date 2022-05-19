@@ -1,4 +1,4 @@
-The task or user story/client goal
+## User story - client request/goal of project
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -23,13 +23,15 @@ Research for how to optimise html for SEO
 
 https://www.greengeeks.com/blog/html-tags-for-seo/
 
-Actions:
+## Actions taken
 
 1. Marked up html to note what needed doing <!-- mark ups in html written like this -->
 
 2. Researched accessability standards https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
 3. website title <website/> renamed for SEO to >Horiseon SEO< to capture company name and also the services they offer for when people are googling
+
+4. <h1>Hori<span class="seo">seo</span>n</h1>
 
 4. Optimised images for SEO. 
 Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
@@ -44,7 +46,8 @@ compressed images using photoshop script and preview for png to under 2MB each a
 5. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
 Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/IDforheaderlink.png
 
-
 6. Added link to Horiseon in header so that it refreshes the page
 
 10. updated copyright to 2022
+
+11. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/
