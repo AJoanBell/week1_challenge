@@ -53,7 +53,7 @@ Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blo
 
 10. CSS selectors and properties consolidated and organized to follow semantic structure.
 
-11. Commented on CSS and changes made
+11. Commented on CSS and changes made to CSS
 
 12. Footer not in final png for reference that was provided but I have left it in as footer is best practice in website. Added dummy terms and conditions and privacy policy. Updated copyright to 2022.
 
@@ -61,4 +61,4 @@ Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blo
 
 14. right column in body not formatting properly across all browsers and devices (the px where it ends) but must ignore for purposes of this exercise.
 
-15. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/01-html-css-git-homework-demo.png
+15. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here: https://raw.githubusercontent.com/AJoanBell/week1_challenge/master/assets/images/images%20for%20READme%20doc/Horiseon%20SEO.jpg
