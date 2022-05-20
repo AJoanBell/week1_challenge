@@ -37,28 +37,30 @@ https://www.greengeeks.com/blog/html-tags-for-seo/
 
 6. Add nav tags for menu items in header
 
-7. Optimised images for SEO. 
+7. Added main, section, aside and footer tags to replace div and better define content hierarchy for SEO. Amended CSS if any renaming was affected
+
+8. Optimised images for SEO. 
 Research: https://www.searchenginejournal.com/on-page-seo/image-optimization/
 https://www.searchenginejournal.com/on-page-seo/image-optimization/
 
-8. Images should be no more than 20MB, best practice from my experience is keep them under 1MB, no more than 2MB. jpg ideal but some of these images had transparent backgrounds so needed to retain png format
+9. Images should be no more than 20MB, best practice from my experience is keep them under 1MB, no more than 2MB. jpg ideal but some of these images had transparent backgrounds so needed to retain png format
 renamed images to be more SEO friendly
 added alt tags for SEO and accessability
 
 compressed images using photoshop script and preview for png to under 2MB each and renamed to optimise SEO and put new image addresses in html
 updated CSS .hero with new link to compressed image. Left in CSS and didn't write in html as not critical to SEO and accessability
 
-9. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
+10. Search Engine Optimization in header not linking to section on page. Added ID in html to resolve
 Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blob/master/assets/images/images%20for%20READme%20doc/IDforheaderlink.png
 
-10. CSS selectors and properties consolidated and organized to follow semantic structure.
+11. CSS selectors and properties consolidated and organized to follow semantic structure.
 
-11. Commented on CSS and changes made to CSS
+12. Commented on CSS and changes made to CSS
 
-12. Footer not in final png for reference that was provided but I have left it in as footer is best practice in website. Added dummy terms and conditions and privacy policy. Updated copyright to 2022.
+13. Footer not in final png for reference that was provided but I have left it in as footer is best practice in website. Added dummy terms and conditions and privacy policy. Updated copyright to 2022.
 
-13. Cleaned up html with formatting, indentation, moving tags to reduce lines and make it easier to locate elements and sections.
+14. Cleaned up html with formatting, indentation, moving tags to reduce lines and make it easier to locate elements and sections.
 
-14. right column in body not formatting properly across all browsers and devices (the px where it ends) but must ignore for purposes of this exercise.
+15. right column in body not formatting properly across all browsers and devices (the px where it ends) but must ignore for purposes of this exercise.
 
-15. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here: https://raw.githubusercontent.com/AJoanBell/week1_challenge/master/assets/images/images%20for%20READme%20doc/Horiseon%20SEO.jpg
+16. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here: https://raw.githubusercontent.com/AJoanBell/week1_challenge/master/assets/images/images%20for%20READme%20doc/Horiseon%20SEO.jpg
