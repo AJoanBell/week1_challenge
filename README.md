@@ -64,3 +64,7 @@ Screenshot of ID added in html: https://github.com/AJoanBell/week1_challenge/blo
 15. right column in body not formatting properly across all browsers and devices (the px where it ends) but must ignore for purposes of this exercise.
 
 16. Link to final live deployment: https://ajoanbell.github.io/week1_challenge/ and link to screenshot/png here: https://raw.githubusercontent.com/AJoanBell/week1_challenge/master/assets/images/images%20for%20READme%20doc/Horiseon%20SEO.jpg
+
+![Horiseon SEO](https://user-images.githubusercontent.com/36496885/170238695-c81baf0b-6c12-40cc-b440-974dc8af67ba.jpg)
+
+
